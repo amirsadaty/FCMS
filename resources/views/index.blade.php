@@ -3,7 +3,6 @@
 
     @include('partials.preloader')
     @include('partials.mainmenu')
-    @include('partials.header-aria')
     @include('partials.feature')
     @include('partials.service')
     @include('partials.special_feature')
