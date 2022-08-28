@@ -1,6 +1,6 @@
 @extends('layouts.master')
 @section('content')
-
+@include('partials.header-aria')
     @include('partials.preloader')
     @include('partials.mainmenu')
     @include('partials.feature')
